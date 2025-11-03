@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pyarrow
+pandas
+s3fs
+boto3
